@@ -39,7 +39,7 @@
       "nodemailer": "^6.3.1",
       "nstore": "^0.5.2",
       "pg": "^7.3.0",
-      "pug": "^2.0.4",
+      "pug": "^3.0.1",
       "reflect-metadata": "^0.1.10",
       "socket.io": "^2.3.0",
       "speakeasy": "^2.0.0",
