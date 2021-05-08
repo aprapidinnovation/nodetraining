@@ -44,7 +44,7 @@
       "socket.io": "^2.3.0",
       "speakeasy": "^2.0.0",
       "twilio": "^3.35.1",
-      "typeorm": "0.2.19"
+      "typeorm": "0.2.25"
    },
    "scripts": {
       "tsc": "tsc",
