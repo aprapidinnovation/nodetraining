@@ -36,7 +36,7 @@
       "jsonwebtoken": "^8.5.1",
       "jwt-simple": "^0.5.6",
       "nativescript-email": "^1.5.5",
-      "nodemailer": "^6.3.1",
+      "nodemailer": "^6.4.16",
       "nstore": "^0.5.2",
       "pg": "^7.3.0",
       "pug": "^2.0.4",
